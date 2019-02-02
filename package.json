@@ -39,13 +39,16 @@
   ],
   "dependencies": {
     "lodash.camelcase": "^4.3.0",
-    "protobufjs": "https://github.com/rclark/protobuf.js/tarball/39af434819abba6787648616603c4c4ce583d6c3"
+    "protobufjs": "https://github.com/rclark/protobuf.js/tarball/c3325c3a7b639a2b64df041fbadb5290e48285ca"
   },
   "devDependencies": {
     "@types/lodash.camelcase": "^4.3.4",
     "@types/node": "^10.12.5",
     "clang-format": "^1.2.2",
     "gts": "^0.5.3",
+    "gulp": "^4.0.0",
+    "gulp-help": "^1.6.1",
+    "gulp-mocha": "^6.0.0",
     "typescript": "~2.7.2"
   },
   "engines": {
