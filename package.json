@@ -39,7 +39,7 @@
   ],
   "dependencies": {
     "lodash.camelcase": "^4.3.0",
-    "protobufjs": "https://github.com/rclark/protobuf.js/tarball/c3325c3a7b639a2b64df041fbadb5290e48285ca"
+    "protobufjs": "https://github.com/rclark/protobuf.js/tarball/de99ff9f858ae07145c761751c149f002d9dd0fe"
   },
   "devDependencies": {
     "@types/lodash.camelcase": "^4.3.4",
